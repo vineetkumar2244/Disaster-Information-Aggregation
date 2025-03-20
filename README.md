@@ -41,7 +41,7 @@ The **Real-Time Disaster Information Aggregation Software** is a web-based platf
 
 ## 🚀 Getting Started  
 
-### 📥 Clone the Repository  
+### 📥 Clone The Repository  
 ```sh
 git clone https://github.com/vineetkumar2244/disaster-info-aggregation.git
 ```
